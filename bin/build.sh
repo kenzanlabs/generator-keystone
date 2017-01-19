@@ -7,4 +7,4 @@ npm cache clean
 npm install
 
 echo "running build task"
-gulp build
+npm run build
