@@ -30,10 +30,18 @@ By answering a few simple questions, an entire skeleton build will be generated 
 ## Install
 As this project is still in development and not published in NPM, please install via our Github repo
 
-`npm install -g kenzanlabs/generator-keystone`
+```bash
+npm install -g kenzanlabs/generator-keystone
+```
+
 
 ## Usage
-TBD
+
+```bash
+$ yo keystone
+
+# follow the prompts
+```
 
 ## Options
 TBD
