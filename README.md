@@ -27,6 +27,21 @@ By answering a few simple questions, an entire skeleton build will be generated 
 [Gulp]: http://gulpjs.com/
 [Keystone]: https://github.com/kenzanlabs/keystone
 
+## Prerequisite 
+
+This project requires the latest version (1.8.5) of the Yeoman CLI library, [`yo`](https://www.npmjs.com/package/yo).
+
+```bash
+# verify current version
+$ yo --version
+
+# if necessary, install or update yo
+$ npm install -g yo
+
+# or to update
+$ npm update -g yo
+```
+
 ## Install
 As this project is still in development and not published in NPM, please install via our Github repo
 
