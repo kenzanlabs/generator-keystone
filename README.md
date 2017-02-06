@@ -2,9 +2,9 @@
 
 [![GitHub release](https://img.shields.io/github/release/kenzanlabs/generator-keystone.svg)](https://github.com/kenzanlabs/generator-keystone/releases)
 [![npm](https://img.shields.io/npm/v/generator-keystone.svg)](https://www.npmjs.com/package/generator-keystone)
-[![Jenkins](https://img.shields.io/jenkins/s/https/kenzan.ci.cloudbees.com/job/CI-generator-keystone.svg)](https://kenzan.ci.cloudbees.com/job/CI-generator-keystone/)
-[![Jenkins tests](https://img.shields.io/jenkins/t/https/kenzan.ci.cloudbees.com/job/CI-generator-keystone.svg)](https://kenzan.ci.cloudbees.com/job/CI-generator-keystone/lastCompletedBuild/testReport/)
-[![Jenkins coverage](https://img.shields.io/jenkins/c/https/kenzan.ci.cloudbees.com/job/CI-generator-keystone.svg)](https://kenzan.ci.cloudbees.com/job/CI-generator-keystone/cobertura)
+[![Jenkins](https://img.shields.io/jenkins/s/https/kenzan.ci.cloudbees.com/job/DEV-generator-keystone.svg)](https://kenzan.ci.cloudbees.com/job/DEV-generator-keystone/)
+[![Jenkins tests](https://img.shields.io/jenkins/t/https/kenzan.ci.cloudbees.com/job/DEV-generator-keystone.svg)](https://kenzan.ci.cloudbees.com/job/DEV-generator-keystone/lastCompletedBuild/testReport/)
+[![Jenkins coverage](https://img.shields.io/jenkins/c/https/kenzan.ci.cloudbees.com/job/DEV-generator-keystone.svg)](https://kenzan.ci.cloudbees.com/job/DEV-generator-keystone//cobertura)
 [![npm](https://img.shields.io/npm/dt/generator-keystone.svg)](https://www.npmjs.com/package/generator-keystone)
 [![GitHub issues](https://img.shields.io/github/issues-raw/kenzanlabs/generator-keystone.svg)](https://github.com/kenzanlabs/generator-keystone/issues)
 [![GitHub issues](https://img.shields.io/github/issues-pr-raw/kenzanlabs/generator-keystone.svg)](https://github.com/kenzanlabs/generator-keystone/pulls)
